@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  openUrl() {
+    window.location.href = 'https://jamibot.com';
+  }
+
 }
