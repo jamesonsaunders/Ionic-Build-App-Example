@@ -2,10 +2,8 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic Build App Example – IOS, Android, Web – (Mac Tutorial)](https://youtu.be/B_seja5eHt8).
 
-Mac
 [![Ionic Build App Example – IOS, Android, Web – (Mac Tutorial)](https://img.youtube.com/vi/B_seja5eHt8/0.jpg)](https://youtu.be/B_seja5eHt8)
 
-Windows
 [![Ionic Build App Example – Android – (Windows Tutorial)](https://img.youtube.com/vi/c7HmwiTtYPE/0.jpg)](https://youtu.be/c7HmwiTtYPE)
 
 A minimal example used in the video tutorial for building Ionic app building for IOS, Android, and Web.
