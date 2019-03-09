@@ -2,6 +2,8 @@
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic Build App Example – IOS, Android, Web – (Mac Tutorial)](https://youtu.be/B_seja5eHt8).
 
+There's also a separate windows tutorial as well: [Ionic Build App Example – Android – (Windows Tutorial)](https://youtu.be/c7HmwiTtYPE).
+
 [![Ionic Build App Example – IOS, Android, Web – (Mac Tutorial)](https://img.youtube.com/vi/B_seja5eHt8/0.jpg)](https://youtu.be/B_seja5eHt8)
 
 [![Ionic Build App Example – Android – (Windows Tutorial)](https://img.youtube.com/vi/c7HmwiTtYPE/0.jpg)](https://youtu.be/c7HmwiTtYPE)
