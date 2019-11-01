@@ -1,6 +1,6 @@
 # Ionic 4 Build App Example – IOS, Android, Web
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic Build App Example – IOS, Android, Web – (Mac Tutorial)](https://youtu.be/B_seja5eHt8).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic Build App Example – IOS, Android, Web – (Mac Tutorial)](https://youtu.be/B_seja5eHt8).
 
 There's also a separate windows tutorial as well: [Ionic Build App Example – Android – (Windows Tutorial)](https://youtu.be/c7HmwiTtYPE).
 
@@ -11,7 +11,7 @@ There's also a separate windows tutorial as well: [Ionic Build App Example – A
 
 A minimal example used in the video tutorial for building Ionic app building for IOS, Android, and Web.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web & mobile development videos.
 
 ## Installation
 
